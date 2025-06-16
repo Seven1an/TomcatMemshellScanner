@@ -85,7 +85,7 @@ Filter内存马全部找出，并且对其余情况做出提示提供分析
 
    ##### 感谢
 
-   @CHATGPT、@宅度青年、@okgo、@pen4uin
+   @ChatGPT、@宅独青年、@okgo、@pen4uin
 
    对我学习过程中的答疑解惑和帮助，谢谢你们
    
