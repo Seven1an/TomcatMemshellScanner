@@ -19,7 +19,8 @@ Tomcat内存马查杀工具
 
 ​	根据Tomcat部署目录与工作目录的区别
 
-​	可确认与查杀(Filter、Servlet、Listener、Valve)内存马，如通过热门工具https://github.com/pen4uin/java-memshell-generator生成的内存马、只实现命令执行功能的内存马
+​	可确认与查杀(Filter、Servlet、Listener、Valve)内存马，如通过热门工具https://github.com/pen4uin/java-memshell-generator生成的webshell ,
+和只实现命令执行功能的内存马
 
 对比
 
